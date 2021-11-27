@@ -8,3 +8,6 @@ obj
 # IDE settings folders
 .vs
 .vscode
+
+# Windows
+*.ini
