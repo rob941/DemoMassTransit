@@ -1,0 +1,10 @@
+# Mac System files
+.DS_Store
+
+# .NET compilation folders
+bin
+obj
+
+# IDE settings folders
+.vs
+.vscode
